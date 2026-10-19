@@ -33,7 +33,7 @@
 
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-avivashishta.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.avivashishta.com) -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-adithya--shashikumaar--gurikar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-shashikumaar-gurikar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adithya%20shashikumaar%20gurikar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-shashikumaar-gurikar/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-adithya.gurikar-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://tinyurl.com/adithyasgurikar)
 
