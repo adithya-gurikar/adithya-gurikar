@@ -7,10 +7,10 @@
 
 ```
 Name      :  Adithya Shashikumaar Gurikar
-Education :  M.S. Computer Science — University of Illinois Urbana-Champaign
+Education :  Masters in Computer Science — University of Illinois Urbana-Champaign
 Focus     :  [ ]
 Experience:  [ ]
-Location  :  [ ]
+Location  :  [Champaign Urbana, Illinois, United States ]
 Interests :  [ ]
 Languages :  [ ]
 Currently :  [ ]
