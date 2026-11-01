@@ -1,32 +1,28 @@
 {
   "username": "adithya-gurikar",
-  "generated_at": "2026-10-31T12:38:38Z",
+  "generated_at": "2026-11-01T13:29:57Z",
   "range": {
-    "start": "2025-10-26",
+    "start": "2025-11-02",
+    "end": "2026-11-01"
+  },
+  "total_contributions": 70,
+  "active_days": 25,
+  "avg_per_active_day": 2.8,
+  "current_streak": {
+    "length": 19,
+    "start": "2026-10-13",
     "end": "2026-10-31"
   },
-  "total_contributions": 69,
-  "active_days": 24,
-  "avg_per_active_day": 2.9,
-  "current_streak": {
-    "length": 18,
-    "start": "2026-10-13",
-    "end": "2026-10-30"
-  },
   "longest_streak": {
-    "length": 18,
+    "length": 19,
     "start": "2026-10-13",
-    "end": "2026-10-30"
+    "end": "2026-10-31"
   },
   "best_day": {
     "date": "2026-10-14",
     "count": 15
   },
   "monthly": [
-    {
-      "month": "2025-10",
-      "total": 0
-    },
     {
       "month": "2025-11",
       "total": 2
@@ -73,45 +69,14 @@
     },
     {
       "month": "2026-10",
-      "total": 50
+      "total": 51
+    },
+    {
+      "month": "2026-11",
+      "total": 0
     }
   ],
   "days": [
-    {
-      "date": "2025-10-26",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-27",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-28",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-29",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-30",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-31",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-01",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-11-02",
       "count": 2,
@@ -1929,6 +1894,11 @@
     },
     {
       "date": "2026-10-31",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-11-01",
       "count": 0,
       "level": 0
     }
